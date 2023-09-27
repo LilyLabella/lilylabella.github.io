@@ -1,0 +1,63 @@
+<body>
+
+  <body style="background-color:powderblue;">
+    <header>
+      <center>Lily E. Labella </center>
+    </header>
+    <h3>
+      <center>(516) 418-1575 / lily_labella@emerson.edu / www.linkedin.com/in/lily-labella </center>
+    </h3>
+
+    <aside>
+      <img src="https://cdn.imgbin.com/11/6/24/imgbin-stick-man-stick-figure-happy-stick-man-eADGmejyPxTZfNqVuhHxGti3k.jpg" alt="placeholder image of Lily Labella, a stick figure">
+      <br>
+    </aside>
+    <section id="summary">
+      <h2> Skills </h2>
+    <ul>
+      <li>Writing</li>
+      <li>Copywriting</li>
+      <li>Marketing</li>
+      <li>Adobe</li>
+      <li>Microsoft</li>
+      <li>Childcare</li>
+    </ul>
+    </section>
+    <section>
+      <h2>Education</h2>
+      Emerson College, 2025: BA Writing, Literature and Publishing
+      <p> Minor in Marketing Communications </p>
+      <p> Honors Program, Dean’s List </p>
+      <p> GPA: 3.80 </p>
+    </section>
+    <section>
+      <h2>Professional Experience</h2>
+      <h3>SIVEA</h3>
+      <p> January 2023 - September 2023 </p>
+      <p> Designed layout for pages of a poetry anthology published in April of 2023 using Adobe InDesign. The magazine solicited poems to fit the theme, ‘what inspires you?’ and were published alongside images that had inspired the poets. Currently working on the April 2024 edition, based off the message ‘the important ones.’ </p>
+      <h3> Emerson Review </h3>
+      <p>September 2021 – September 2023 </p>
+      <p> I have been part of Emerson’s oldest and most prestigious literary magazine for five semesters, first as a reader, then as the Nonfiction Editor, then as the Assistant Poetry Editor Position, and most recently as Head Poetry Editor. My duties include reading submissions from people all over the world assigned to me through Submittable, discussing, accepting, and copy editing those submissions.</p>
+      <h3>Emerson Poetry Project</h3>
+      <p> September 2021- September 2023 </p>
+      <p>E.P.P. is Emerson’s only performance poetry organization, and I have been attending E.P.P.’s open mics and slams for the past two years. I recently became the Assitant Social Media Manager, where I create conent for Instagram with Canva and post them throughout the week. </p>
+      <h3>Undergraduate Students for Publishing</h3>
+      <p> September 2021- February 2023 </p>
+      <p>I spent three semesters working for the Wild Press team, which publishes two full length student manuscripts per semester. I have participated in copy editing, substantive editing and cover design for Letters to Space (2021) Something More (2021), Shrine Maiden (2022), and Fame and Other Candies (2022). </p>
+    </section>
+    <section>
+      <h2>Paid Jobs</h2>
+      <h3>Emerson Print Copy Center / Collegiate Press</h3>
+      <p>August 2023- Present</p>
+      <p>Currently working part time at the Emerson College branch of Collegiate Press, where I print a range of projects, such as student org flyers, GMC bound books, and large scale posters or banners for events. I also operate the cash register and send invoices to our clients.</p>
+      <h3> Sophie's Kitchen </h3>
+      <p> September 2022- January 2023 </p>
+      <p> I operated the student canteen during my time at Kasteel Well, Emerson’s rural campus located in the Netherlands. My duties included making sales, managing inventory, and providing access to the microwave. </p>
+      <h3>Port Day Camp</h3>
+      <p> July 2018 - August 2022 </p>
+      <p> Supervised children aged 4-7 years old and helped them partake in a wide range of summer activities. I maintained water safety and playground safety, organized free time after lunch, settled disputes between campers, and assisted with arts and crafts and sports organized by other counselors. I also ran the early drop off program. </p>
+    </section>
+    <br>
+  </body>
+
+  </html>
